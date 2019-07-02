@@ -1,6 +1,6 @@
 # Inventory-System
 
-The System is designed to store items.
+The System is designed to store items. Major python scripts are: forms, models, urls(App), views and all HTML files in the template folder.
 
 WINDOWS INSTALLATION
 ---------------------
